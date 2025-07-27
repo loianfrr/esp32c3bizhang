@@ -1,2 +1,5 @@
-# esp32c3bizhang
-避障小车主固件
+{
+  "version": "1.0.1",
+  "url": "https://github.com/your-username/esp32c3-firmware/releases/download/v1.0.1/BZ_v1.0.1.bin",
+  "md5": "245bd7741726fa67b242b922c1c05db4"
+}
